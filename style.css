@@ -169,7 +169,7 @@ nav ul {
     justify-items: start;
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
 
     .column-1 img,
     .column-2 img,
